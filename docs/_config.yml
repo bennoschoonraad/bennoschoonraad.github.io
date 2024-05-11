@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Bliksem, Is Dit Benno?
+title: Bliksem, Dit Is Benno!
 author: Benno Schoonraad
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A GitHub Page powered by Jekyll for all of my musings, half baked ideas and second hand knowledge. 
-  This is purely for my entertainment; any entertainment, knowledge or emotion that you might derive from this page is purely coincidence.
+  This is purely for my enjoyment; any entertainment, knowledge or emotion that you might derive from this page is purely coincidence.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bennoschoonraad.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
